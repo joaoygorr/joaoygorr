@@ -1,6 +1,6 @@
 <h1 align="center">Bem-Vindo ao meu perfil, eu sou João Ygor ✌🏼 </h1>
 
-<div align="center">
+<div>
   <a href="https://github.com/joaoygorr">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=joaoygorr&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoygorr&layout=compact&langs_count=7&theme=merko"/>
