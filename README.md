@@ -15,7 +15,9 @@
 </div>
   
 ##
+<br>
   
+## Contact:
 <div align="center">
    <a href="https://www.instagram.com/rjoaoygor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:ygorvieira2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -24,3 +26,11 @@
   ![Snake animation](https://github.com/joaoygorr/joaoygorr/blob/output/github-contribution-grid-snake.svg)
 </div>
 
+<p align="center"> 
+
+## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/joaoygorr/count.svg" />
+ </p>
+
+</p>
