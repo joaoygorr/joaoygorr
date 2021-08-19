@@ -29,9 +29,9 @@
   
 <p align="center"> 
 
-:detective: <br>
+## Total Visits in profile :detective: <br>
 <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/joaoygorr/count.svg" />
+   <img alingn="center" src="https://profile-counter.glitch.me/joaoygorr/count.svg"/>
 </p>
 
 </p>
