@@ -1,0 +1,5 @@
+* text=auto
+* assets/font-awesome-4.7.0/linguist-vendored
+* .scss linguist-vendored=false
+* assets/font-awesome-4.7.0/linguist-vendored
+* .less linguist-vendored=false
