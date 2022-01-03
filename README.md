@@ -16,6 +16,7 @@
   <img align="center" alt="joao-MySQL" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;>
 </div>
   
 ##
