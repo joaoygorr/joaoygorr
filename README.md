@@ -17,7 +17,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" img align="right" alt="Computador-pic" height="150" style="border-radius:50px;>
 </div>
   
-##
+  ##
 
 ## Contact:
 <div align="center">
