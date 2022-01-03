@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/joaoygorr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoygorr&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoygorr&layout=compact&langs_count=7&theme=merko"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaoygorr&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoygorr&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
@@ -14,11 +14,13 @@
   <img align="center" alt="joao-MySQL" height="30" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   
-</div>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" img align="right" alt="Computador-pic" height="150" >
+</div><br>
   
  
- ##
+ ## 
+  
+
  
   ## Contact: <br>
 <div align="center">
