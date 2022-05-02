@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to my profile</h1>
+<div align="center"> <img src="https://media-exp1.licdn.com/dms/image/C4D16AQHGQTj_ylW8IA/profile-displaybackgroundimage-shrink_350_1400/0/1640887501724?e=2147483647&v=beta&t=mdPzRqTnyhsK4QtqLWhWg-z09qAcXDpYjoGWW-1HHeE" />
+</div>
 
 <div align="center">
   <a href="https://github.com/joaoygorr"></a>
