@@ -1,5 +1,4 @@
-<div align="center"> <img width="100%" height="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQHGQTj_ylW8IA/profile-displaybackgroundimage-shrink_350_1400/0/1640887501724?e=2147483647&v=beta&t=mdPzRqTnyhsK4QtqLWhWg-z09qAcXDpYjoGWW-1HHeE" />
-</div>
+<div align="center"> <h1>Hello World! Welcome to my profile!</h1></div>
 
 <div align="center">
   <a href="https://github.com/joaoygorr"></a>
@@ -15,8 +14,8 @@
   <img align="center" alt="joao-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" alt="joao-Node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
- 
 </div> 
+
 <img align="right" alt="Computador-pic" height="100" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  /><br />
   
  
