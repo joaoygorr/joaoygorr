@@ -1,7 +1,7 @@
 <div align="center"> <h1>Hello World! Welcome to my profile!</h1></div>
 
 <div align="center">
-  <a href="https://github.com/joaoygorr"></a>
+  <a href="https://github.com/joaoygorr"></a> 
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=joaoygorr&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoygorr&layout=compact&langs_count=7&theme=merko"/>
 </div>
@@ -18,7 +18,6 @@
 
 <img align="right" alt="Computador-pic" height="100" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  /><br />
   
- 
  ## 
   
 <div align="center">
